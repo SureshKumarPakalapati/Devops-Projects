@@ -2,7 +2,7 @@
 
 ## Jenkins, Ansible, Tomcat Installation from scratch
 
-## Simple DevOps Project-1 | Simple DevOps project for CI/CD | CI/CD through Jenkins
+## Simple DevOps Project-1 | Simple DevOps project for CI/CD through Jenkins on Tomcat
 We know how to use work with each and Git, Jenkins independently. What if you want to collaborate these two? that is where Simple DevOps project helps you. Follow below steps if you are a new guy to DevOps. You love it. 
 
 #### Prerequisites
@@ -54,5 +54,5 @@ Now job is running fine but to make this as Continuous Integration and Continuou
 Save the job and modify the code in GitHub. Then you could see your job get trigger a build without any manual intervention.
 
 
-#### Simple DevOps Project-2 | CI/CD pipeline using GIT, Jenkins & Ansible
+## Simple DevOps Project-2 | CI/CD pipeline using GIT, Jenkins & Ansible
 
