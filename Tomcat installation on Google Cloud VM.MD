@@ -4,7 +4,7 @@
 1. GC instance with Java v1.8.x 
 
 ### Install Apache Tomcat
-Download tomcat packages from  https://tomcat.apache.org/download-80.cgi onto /opt on EC2 instance
+Download tomcat packages from  https://tomcat.apache.org/download-80.cgi onto /opt on GC instance
 ```sh 
   # create tomcat directory
   cd /opt
