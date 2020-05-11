@@ -79,9 +79,9 @@ http://YOUR-SERVER-PUBLIC-IP:8080
 1. Check "console output"
 
 ### Next Step
-- [x] [Configure Users & Groups in Jenkins]
-- [x] [Secure your Jenkins Server]
-- [x] [Jenkins Plugin Installation]
-- [x] [Jenkins Master-Slave Configuration]
+- [x] Configure Users & Groups in Jenkins
+- [x] Secure your Jenkins Server
+- [x] Jenkins Plugin Installation
+- [x] Jenkins Master-Slave Configuration
 - [x] Setup Jenkins to run inside Tomcat Server
 
