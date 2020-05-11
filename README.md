@@ -21,6 +21,7 @@ yum -y install python3-pip
 
 # Create a new user for ansible administration & grant admin access to the user (on Control node and Managed host)
 useradd ansadmin
+
 passwd ansadmin
 
 # Below command adds ansadmin to sudoers file. But we strongly recommended using "visudo" command if you are aware vi
