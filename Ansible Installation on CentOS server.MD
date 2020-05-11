@@ -1,6 +1,6 @@
 # Ansible Installation on CentOS server
 
-# Install Python latest version (on Control node and Managed host)
+### Install Python latest version (on Control node and Managed host)
 
 yum install python3 -y
 
