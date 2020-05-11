@@ -1,4 +1,4 @@
-# Ansible Installation on CentOS server
+## Ansible Installation on CentOS server
 
 #### Install Python latest version (on Control node and Managed host)
 
