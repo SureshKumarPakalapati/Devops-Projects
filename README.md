@@ -1,9 +1,9 @@
 # Devops-Projects
 
 ### Jenkins, Ansible, Tomcat Installation from scratch
-###### Jenkins Installation on Google Cloud VM **[Link](https://github.com/SureshKumarPakalapati/Devops-Projects/blob/master/Jenkins%20Installation%20on%20Google%20Cloud%20VM.MD)**
-###### Tomcat installation on Google Cloud VM **[Link](https://github.com/SureshKumarPakalapati/Devops-Projects/blob/master/Tomcat%20installation%20on%20Google%20Cloud%20VM.MD)**
-###### Ansible Installation on Google Cloud VM **[Link](https://github.com/SureshKumarPakalapati/Devops-Projects/blob/master/Ansible%20Installation%20on%20RHEL%208.x%20server.MD)**
+####### Jenkins Installation on Google Cloud VM **[Link](https://github.com/SureshKumarPakalapati/Devops-Projects/blob/master/Jenkins%20Installation%20on%20Google%20Cloud%20VM.MD)**
+####### Tomcat installation on Google Cloud VM **[Link](https://github.com/SureshKumarPakalapati/Devops-Projects/blob/master/Tomcat%20installation%20on%20Google%20Cloud%20VM.MD)**
+####### Ansible Installation on Google Cloud VM **[Link](https://github.com/SureshKumarPakalapati/Devops-Projects/blob/master/Ansible%20Installation%20on%20RHEL%208.x%20server.MD)**
 
 
 ### Simple DevOps Project-1 | Simple DevOps project for CI/CD through Jenkins & Tomcat
