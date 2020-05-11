@@ -1,7 +1,7 @@
 # Devops-Projects
 
 ### Jenkins, Ansible, Tomcat Installation from scratch
-### Follow this article in **[Link](https://www.youtube.com/watch?v=m21nFreFw8A)**
+#### Jenkins Installation on Google Cloud VM **[Link](https://www.youtube.com/watch?v=m21nFreFw8A)**
 
 ### Simple DevOps Project-1 | Simple DevOps project for CI/CD through Jenkins & Tomcat
 We know how to use work with each and Git, Jenkins independently. What if you want to collaborate these two? that is where Simple DevOps project helps you. Follow below steps if you are a new guy to DevOps. You love it. 
