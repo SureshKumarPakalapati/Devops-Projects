@@ -61,10 +61,6 @@ Copy keys onto all ansible managed hosts (on Control node)
 
 ssh-copy-id ansadmin@target-server
  
-Validation test
-
-Create a directory /etc/ansible and create an inventory file called "hosts" add control node IP address in it.
-
 ####  Run ansible command as ansadmin user it should be successful (Master)
 
 ansible all -m ping
