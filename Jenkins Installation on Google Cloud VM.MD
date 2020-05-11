@@ -119,9 +119,8 @@ Install git packages on jenkins server
 
 - Configure git path
   - `Manage Jenkins` > `Global Tool Configuration` > `git`
-  
-  
-  #  Install & configure Maven build tool on Jenkins
+
+#  Install & configure Maven build tool on Jenkins
 Maven is a code build tool which used to convert your code to artifact. this is widely used plugin to build in continuous integration
 
 #### Prerequisites
